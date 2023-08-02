@@ -1,5 +1,6 @@
+package com.mycompany.taller;
 
-public class Main {
+public class Taller {
     public static void main(String[] args) {
         Empresa empresa = new Empresa();
 
